@@ -1,2 +1,5 @@
 /*
   Access-Control-Allow-Origin: *
+
+/create
+  Access-Control-Allow-Origin: *
