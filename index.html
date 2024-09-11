@@ -246,7 +246,7 @@
           const body = { url: this.url }
           if (this.slug) body.slug = this.slug
 
-          fetch('/create', {
+          fetch('https://f644697a.linklet-1tg.pages.dev/create', {
             method: 'post',
             headers: { 'content-type': 'application/json' },
             body: JSON.stringify(body)
